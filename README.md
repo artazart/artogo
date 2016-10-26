@@ -1,16 +1,9 @@
-# go-cddns
-Golang client for dynamically updating cloudflare DNS records on a specified interval. Useful if you're using Cloudflare to point to a device with a dynamic IP Address
+# Some Program
+Golang client for dynamically updating cloudflare DNS records on a specified interval.
 
-## Usage
-
-Create a config.json with the following structure:
-
-```json
-{
-  "UpdateInterval": "{interval (in minutes) to check for an updated IP Address}",
-  "Key": "{Cloudflare API Key}",
-  "Email": "{Cloudflare Email Address}",
-  "DomainName": "{Cloudflare domain to modify}",
-  "RecordName": "{Array of DNS records to update}"
-  }
-  ```
+## Terms of Use
+    Do NOT use this on any computer you do not own, or are allowed to run this on;
+    Credits must always be given, With linksback to here;
+    You may NEVER attempt to sell this, its free and open source;
+    The authors and publishers assume no responsibility;
+    For educational purposes only.
