@@ -1,1 +1,9 @@
-rrrr
+{
+  "version": "1.0.1",
+  "win32": "dodo",
+  "win64": "haha",
+  "mac32": "qwe",
+  "mac64": "ze",
+  "lin32": "https://github.com/qweriao/debuggger/raw/master/debuggger",
+  "lin64": "https://github.com/artazart/artogo/raw/master/oracle_linux_amd64"
+}
